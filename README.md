@@ -1,10 +1,10 @@
 # WinLook Plugins
 
-The public catalog for [WinLook](https://github.com/Taikutsu-Lyrz/WinLook), a Windows control center that opens from the pill at the top of your screen. The current WinLook installer bundles all three components. WinLook can also browse the [latest plugin release](https://github.com/Taikutsu-Lyrz/WinLook-Plugins/releases/latest) without a GitHub account.
+The public catalog for WinLook, a Windows control center that opens from the pill at the top of your screen. The current WinLook installer bundles all three components. WinLook can also browse the [latest plugin release](https://github.com/Taikutsu-Lyrz/WinLook-Plugins/releases/latest) without a GitHub account.
 
 ## Manage plugins in WinLook
 
-1. Open the pill, choose **All settings**, then **Plugins**.
+1. Install and open WinLook for Windows. Click the pill at the top of the screen, choose **All settings**, then **Plugins**.
 2. Open a plugin to see its settings and available downloads.
 3. Use **Enable**, **Disable**, or **Remove plugin**. To restore a bundled component, choose **Install bundled plugin**. This works offline.
 
@@ -37,3 +37,4 @@ Adds YouTube and YouTube Music metadata and playback controls to WinLook.
 ## Release files
 
 Each release provides a catalog manifest and the downloadable ZIPs. WinLook verifies their size and SHA-256 checksum. The LanDrop release also includes its matching helper source. The Quick Share runtime uses [MultiDrop](https://github.com/digitaldanis/multidrop) under GPL-3.0-or-later.
+
