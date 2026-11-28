@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "plugins": [
+    {
+      "id": "landrop",
+      "name": "LanDrop",
+      "description": "Share files from the pill with LanDrop, LocalSend, and compatible Quick Share devices.",
+      "version": "0.2.1",
+      "asset": "LanDrop-WinLook-Plugin_x64.zip",
+      "sha256": "54ffc5787f334e6f0c420d97b347eee73730feb28aae26affc81be3e5fecc3c5"
+    },
+    {
+      "id": "chrome-companion",
+      "name": "Chrome companion",
+      "description": "Add YouTube and YouTube Music metadata and playback controls to WinLook.",
+      "version": "0.2",
+      "asset": "WinLook-Chrome-Companion.zip",
+      "sha256": "6035d0c536819e69997291cacf5820de66651aa3d8311c334f812ee98d9616f1"
+    },
+    {
+      "id": "desktop-lyrics",
+      "name": "Desktop Lyrics",
+      "description": "Show synced lyrics on your desktop and adjust their style, placement, monitor, and timing.",
+      "version": "0.2",
+      "bundled": true
+    },
+    {
+      "id": "file-converter",
+      "name": "File Converter",
+      "description": "Convert dropped files locally using Filee by Myeonggu Kim (KnifeLemon) and contributors.",
+      "version": "2.5.0",
+      "provider": "filee"
+    }
+  ]
+}
